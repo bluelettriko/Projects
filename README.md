@@ -1,5 +1,8 @@
 # TripleTen
-### Projects I developed during my experience at TripleTen
+## Projects I developed during my experience at TripleTen
+
+### Descripción de los proyectos y de las herramientas utilizadas para desarrollarlo
+
 
 #### Análisis del riesgo de incumplimiento de los prestatarios
 
